@@ -1,0 +1,7 @@
+d3_streamGraph.qext;
+d3_streamGraph.js;
+d3_streamGraph.css;
+initialproperties.js;
+properties.js;
+./libraries/d3.v3.min.js;
+./libraries/d3.v4.min.js
